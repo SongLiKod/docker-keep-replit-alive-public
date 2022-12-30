@@ -34,5 +34,5 @@ function keepalive() {
     }
 }
 
-setInterval(keepalive, 30000);
+setInterval(keepalive, 120000);
 
